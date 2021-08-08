@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://cosecconsultants.github.io/"
 languageCode = "en-us"
 title = "Cosec Consultant"
 theme = "Cosec-Theme"
