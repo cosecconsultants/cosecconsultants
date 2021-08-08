@@ -36,7 +36,7 @@ jobs:
         with:
           source_file: './public/.'
           destination_repo: 'cosecconsultants/cosecconsultants.github.io'
-          destination_branch: 'main'
+          destination_branch: 'gh-pages'
           user_email: 'cosec.consultants1@gmail.com'
           user_name: 'cosecconsultants'
           input_commit_message: 'Commit from Actions'
