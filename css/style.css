@@ -1333,8 +1333,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 10px solid #47b2e4;
+  border-bottom: 0px solid #47b2e4;
   padding: 30px;
   background: #fff;
   width: 100%;
