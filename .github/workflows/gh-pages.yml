@@ -35,8 +35,8 @@ jobs:
            API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source_file: './public/.'
-          destination_repo: 'gopkumr/Cosec'
+          destination_repo: 'cosecconsultants/cosecconsultants.github.io'
           destination_branch: 'main'
-          user_email: 'gopakumar.r@live.com'
-          user_name: 'gopkumr'
+          user_email: 'cosec.consultants1@gmail.com'
+          user_name: 'cosecconsultants'
           input_commit_message: 'Commit from Actions'
